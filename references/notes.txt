@@ -1,0 +1,5 @@
+25/10/2017
+    Convolution network could do a decent job
+    Need to take a close look at https://www.kaggle.com/cttsai/ensembling-gbms-lb-203
+        Seems like the extract_imd_stats could be really useful
+9fb89c4c3873505ee6a99b8dcebf8be2db705e25170bbc09
